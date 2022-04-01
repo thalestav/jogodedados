@@ -20,5 +20,5 @@ else if (randomNumber2>randomNumber1) {
 
 }
 else{
-    document.querySelector("h1").innerHTML = "Nobody is greater than nobody just the House!"
+    document.querySelector("h1").innerHTML = "Nobody is greater than the House!"
 };
